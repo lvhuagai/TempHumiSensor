@@ -1,2 +1,2 @@
 # TempHumiSensor
-有空再补（
+一个基于Arduino与ESP8266，与小米小爱音箱联动的温度湿度计，基于Blink的SDK
